@@ -1,0 +1,11 @@
+matplotlib
+flask
+librosa
+ffmpeg
+soundfile
+keras
+numpy
+pydub
+pyrebase
+gunicorn
+tensorflow-cpu
